@@ -22,7 +22,7 @@
                 renderer: 'svg',
                 loop: true,
                 autoplay: true,
-                path: 'https://assets2.lottiefiles.com/packages/lf20_lS88YC8r3Y.json'
+                path: 'lplp.json'
             };
 
             var anim;
