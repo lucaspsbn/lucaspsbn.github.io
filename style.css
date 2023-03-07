@@ -18,8 +18,8 @@ body{
 
 .apresentacao__texto1{
    
-   width: 480px;
-   height: 482px;
+   width: 38vw;
+   height: 58vh;
     margin-right: 10%;
     margin-left: 10%;
     display: flex;
@@ -61,8 +61,8 @@ body{
  #lottie{
            
         background-color:#89c2e2, 0.0;
-        width: 25%;
-        height: 25%;
+        width: 35vw;
+        height: 35vh;
                   
         }
 
