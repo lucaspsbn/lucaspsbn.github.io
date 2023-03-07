@@ -86,7 +86,7 @@ a{
    display: flex;
    align-items: center;
    justify-content: center;
-   gap: 4px;
+   gap: 3px;
     width: 150px;
     background-image: linear-gradient(to bottom, #18e6e6 0%, #0c73b8 100%);
     padding: 15px;
