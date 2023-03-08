@@ -58,7 +58,7 @@ body{
 }
 .apresentacao{
     position: relative;
-	z-index: 1000; 
+ z-index: 1000; 
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -66,7 +66,7 @@ body{
     padding-bottom: 25px;
 }
 .apresentacao__conteudo{
-   
+   z-index: 1000;
     width: 42vmax;
     display: flex;
     flex-direction: column;
@@ -92,11 +92,13 @@ body{
     justify-content: space-between;
     align-items: center;
     gap: 15px;
+	z-index: 1000;
 }
 .apresentacao__links__subtitulo{
     font-family: 'Krona One', sans-serif;
     font-weight: 400;
     font-size: 20px;
+z-index: 1000;
 }
 .apresentacao__links__link{
     display: flex;
@@ -116,6 +118,7 @@ body{
     font-weight: bold;
     shadow: #000000;
     font-size: 18px;
+	z-index: 1000;
 }
 .apresentacao__links__link:hover{
     display: flex;
@@ -134,6 +137,7 @@ body{
     font-weight: bold;
     box-shadow: #31cfe4;27;
     font-size: 20px;
+	z-index: 1000;
 }
 .rodape{
     color: #000000;
