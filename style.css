@@ -154,14 +154,15 @@ body{
     }
 
  #bganim{
-     opacity: 0.6; 
+     
+	 opacity: 0.6; 
      fill: #4dce9c;      
     position: absolute;
       
             background-color:#89c2e2, 0.0;
             width: 100vw;
             height:150%
-    
+     z-index: -1000;
     
             
 }
